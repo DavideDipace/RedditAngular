@@ -13,4 +13,3 @@ export class AppComponent {
     return false;
   }
 }
-//Per fare il simbolo ` premere ALT + 96 del tastierino numerico
